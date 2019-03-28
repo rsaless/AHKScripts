@@ -1,0 +1,1 @@
+%programdata%\Microsoft\Windows\Start Menu\Programs\Startup
