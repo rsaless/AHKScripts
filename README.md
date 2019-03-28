@@ -4,10 +4,13 @@ Useful scripts to perform routine actions in an automated way by using key combi
 ## Table of Contents  
 
 ### Opencmd.ahk 
-Script to run Cmd at the current directory. **Key combination: Win+C**
+Script to run Cmd at the current directory. **Key combination: Ctrl+Alt+C**
 
 ### Openvsc.ahk 
-Script to open the current directory in VS Code. **Key combination: Win+V**
+Script to open the current directory in VS Code. **Key combination: Ctrl+Alt+V**
+
+### OpenStartup.ahk 
+Script to open Startup diretory. **Key combination: Ctrl+Alt+S**
 
 ## Running at Startup
 **"startup path.txt"** contains the path to the windows startup folder. Placing files here cause them to execute as soon as windows is started. 
